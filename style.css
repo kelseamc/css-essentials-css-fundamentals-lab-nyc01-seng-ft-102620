@@ -32,7 +32,7 @@ p#featured-property {
   margin-right: auto;
 }
 
-div #details {
+div {
   display: inline-block;
   margin: auto;
 }
