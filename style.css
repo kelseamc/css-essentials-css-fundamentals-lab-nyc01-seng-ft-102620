@@ -34,6 +34,7 @@ p#featured-property {
 
 div {
   display: inline-block;
+  float: left;
 }
 
 div {
