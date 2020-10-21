@@ -26,14 +26,13 @@ figcaption {
 }
 
 p#featured-property {
-  display: block;
   width: 800px;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
 }
 
-div#details {
+div #details {
   display: block;
   margin: auto;
 }
